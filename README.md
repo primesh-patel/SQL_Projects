@@ -1,22 +1,19 @@
 # Cyclistic Bike Share Analysis
 
-Welcome to the Cyclistic Bike Share Analysis project! This repository contains my analysis of bike share data from the Google Case Study - Cyclistic. 
+Welcome to the Cyclistic Bike Share Analysis project! This repository contains my analysis of bike share data from the Google Case Study - Cyclistic using MySQL.
 
 ## Overview
-I explore patterns, trends, and insights within the bike share data, providing a comprehensive analysis. The project includes data cleaning, visualization, and interpretation to uncover valuable information.
+I analyze the bike share data to uncover patterns, trends, and insights. The project includes SQL queries, data cleaning, and interpretation to provide valuable information.
 
 ## Key Features
+- SQL Queries for Data Analysis
 - Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Visualizations showcasing trends and patterns
-- Interpretation of findings
-
-## Technologies Used
-- Python
-- Jupyter Notebooks
-- Pandas, Matplotlib, Seaborn
+- Interpretation of SQL Results
 
 ## How to Use
 1. Clone the repository
-2. Explore the Jupyter Notebooks for detailed analysis
+2. Explore the SQL scripts for detailed analysis
 3. Contribute by providing feedback or enhancements
+
+## Technologies Used
+- MySQL
